@@ -16,3 +16,5 @@ Data sources:
 - [BEV Orthophoto](https://data.bev.gv.at/geonetwork/srv/api/records/9281f8f3-758c-45b8-8d70-0ee048158833), available under CC-BY-4.0. Main source for manually digitizing additional or refined fences.
 - [Basemap Orthophoto](https://basemap.at/orthofoto/), available under CC-BY-4.0. Additional source when the BEV data was not conclusive.
 
+
+This data is licensed under the [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/).
